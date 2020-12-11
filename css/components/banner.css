@@ -1,0 +1,20 @@
+.banner {
+	background-image: url(css/Atelierartyapparel/images/background.jpg);
+	padding: 150px 0px;
+	color: rgb(206,212,218);
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+font-size: 58px;
+font-weight: lighter;
+color: rgb(206,212,218);
+letter-spacing: 5px;
+}
+
+.banner p {
+font-size: 25px;
+font-weight: lighter;
+color: rgb(206,212,218)
+}

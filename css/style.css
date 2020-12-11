@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Rajdhani:wght@300&display=swap");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card-design.css");
+@import url("components/cards-grid.css");
+
+body {
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 18px;
+	background-color: rgb(27,27,27);
+	margin: 0;
+}
+
+h1 {
+	font-family: 'Abel', sans-serif;
+	font-weight: bolder;
+	font-size: 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	color: rgb(206,212,218);
+
+}
+
+p {
+	font-family: 'Abel', sans-serif;
+	font-size: 20px;
+	color: white;
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+}
+
+h3 {
+	color: rgb(50,50,50);
+}
+
+.logo-atelier {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+
+.biglogo {
+	align-content: center;
+}
+
